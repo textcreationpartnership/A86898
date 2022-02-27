@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kentjsh petjtjon set forth, by that divine spirit which God hath given to mee James Hunt, and dedicated unto all those which do love God and the truth.</title>
+            <author>Hunt, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86898</idno>
+            <idno type="STC">Wing H3730A</idno>
+            <idno type="STC">ESTC R178308</idno>
+            <idno type="EEBO-CITATION">47683469</idno>
+            <idno type="OCLC">ocm 47683469</idno>
+            <idno type="VID">172927</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172927)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2656:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kentjsh petjtjon set forth, by that divine spirit which God hath given to mee James Hunt, and dedicated unto all those which do love God and the truth.</title>
+                  <author>Hunt, James.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: stained and with print show-through.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies.</term>
+               <term>Warnings --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:172927:1" rendition="simple:additions"/>
+            <head>THE <hi>KENTJSH PETJTJON,</hi> SET FORTH, By that Divine Spirit which God hath given to mee JAMES HUNT, AND Dedicated unto all thoſe which do love GOD and the TRUTH.</head>
+            <p>FOr Gods Word doth tell you, plainely in the firſt Epiſtle to the <hi>Corinthians,</hi> the 6. Chapter and the 17. verſ. He that is joyned to the Lord, is one ſpi<g ref="char:EOLhyphen"/>rit, and there are three that beare record in Heaven, the Father, the Word, and the Holy Ghoſt, and theſe three are one, as you may reade in the firſt Epiſtle of <hi>Iohn,</hi> the 5. Chapter and the 7. verſ. And now I ſay again, there are foure which doth bear record here on earth, &amp; they
+<pb n="2" facs="tcp:172927:2"/>are joyned all in one; for the Father is God, the Sonne is God, the Holy Ghoſt is God, and the true Church is joyned and made one with God; for it is plainly written in the ſecond Chapt. to the <hi>Epheſians.</hi> Chriſt was cruci<g ref="char:EOLhyphen"/>fied on the Croſs, for to make one-new man in himſelfe, and ſo making peace; but who is that new man. I, ſay all true believers, although we ſhall be thouſands in num<g ref="char:EOLhyphen"/>ber; for Jeſus Chriſt he doth tell you plainly in the 5. Chapter of <hi>Iohn,</hi> and the 24. verſ. <hi>Verily verily</hi> I <hi>ſay unto you, he that heareth my word and believeth on him that ſent mee, he hath everlaſting life, and he ſhall nos come into con<g ref="char:EOLhyphen"/>demnation but he is paſſed from death to life,</hi> and now I ſay again, the Father the Word, and the Holy Ghoſt theſe three are one; the word doth ſignifie Chriſt, who is the ſecond perſon in Trinity; for it is plainly written in the firſt Chapter of <hi>John, In the begining was the word, and the word was with God,</hi> for Chriſt was one with the Fa<g ref="char:EOLhyphen"/>ther before man was made, &amp; the word was made fleſh, Chriſt was made fleſh, and dwelt amongſt us, verſ. 14. And thus I have proved in brief, Chriſt is the Word, &amp; Chriſt is God, and know ye not that Chriſt is in you, excep ye be reprobates; but how, and by what meanes is Chriſt in his people? I ſay by the true light and glory of his word, and that ſpirit which doth joyne us to God the Sonne, the ſame doth joyne us to God the Father, and to God the holy Ghoſt; for it is plainly written in the 4. Chapter to the <hi>Epheſians,</hi> and the 6. verſ. <hi>There is one God and Father of all, who is above all, and in you all,</hi> A<g ref="char:EOLhyphen"/>gain, in the firſt Epiſtle to the <hi>Corinthians,</hi> the 6. Chap. and the 19 verſ. What, know ye not that your body is the Temple of the holy Ghoſt which is in you, which
+<pb n="3" facs="tcp:172927:2"/>ye have of God, and ye are not your own, for ye are all bought with a great price, even with the precious blood of Chriſt, by his ſuffering on the Croſſe, and therefore glorifie God in your bodies and in your ſpirits which are Gods, verſ. 20. And thus by Gods helpe, I have made it plainly appeare, by plain and clear truthes of Scripture, that for all thoſe that will be reconciled to Chriſt, and to the obedience of his word, which is made manifeſt in the New Teſtament, your ſoules which is the inward man ſhall be joyned and made one with the Fa<g ref="char:EOLhyphen"/>ther, Sonne, and Holy Ghoſts for as the glorious Trinity cannot be divided from being one in Godhead and uni<g ref="char:EOLhyphen"/>ty, neither can the ſpirits of the true Church be divided from them three, which is the life and ſubſtance of true peace and ſound Religion, as I in briefe have ſhewed you, even as God my Father hath ſhewed me, and by the ſpirit of Almighty God which proceedeth from above. I hope to draw my King and Parliament into the ſame true band of peace and love.</p>
+            <p>And now all ye Committees, Captains, and Com<g ref="char:EOLhyphen"/>manders, which have your authority from the high Court of Parliament: from your perſecuting power I pray in time turne and repent; for by that glorious light which God hath freely given to mee, you ſhall under<g ref="char:EOLhyphen"/>ſtand and plainly ſee, that if you will not be reconciled to this bleſſed peace and unitee, and have your ſpirits joyn'd to the holy and glorious Trinitee, I ſay again, if you will not be reconciled, you ſhall be ſure damned to bee; for Jeſus Chriſt who is the powerfull God of Hea<g ref="char:EOLhyphen"/>ven and earth, he doth tell you plainly in the 3. Chapter of <hi>John,</hi> and the 36. verſ. <hi>He that believeth not the Sonne, he
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:172927:3"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:172927:3"/>
+                  <pb n="4" facs="tcp:172927:4"/>ſhall not ſee life, but the wrath of God abydeth on him,</hi> and Saint <hi>Paul</hi> doth tell you in the 2 Epiſtle to the <hi>Theſſalo<g ref="char:EOLhyphen"/>nians,</hi> the 1. Chapter and the 8. verſ. God will take ven<g ref="char:EOLhyphen"/>geance on them that know not God, and that obey not the Goſpel of our Lord Jeſus Chriſt, who ſhall be puniſhed with everlaſting deſtruction from the pre<g ref="char:EOLhyphen"/>ſence of the Lord, &amp; from the glorie of his power. And now I pray underſtand the Goſpel in his right place; for it is the New Teſtament which doth proceede from the Throne of grace, for Jeſus Chriſt he is the Mediatour of the New Teſtament, as you may reade in the 9. Chapter to the <hi>Hebrews,</hi> and Jeſus Chriſt he did make his holy Apoſtles able Miniſters of the New Teſtament, and my taske doth tell you, he that is joyned to the Lord is one ſpirit, and mercie and ſound judgement ſhall be the true notes of my proſe and my ſong; for by Gods mercie and ſound judgement, I ſhall no man wrong, for mercie and ſound judgement doth belong to God, and to my Kings ſeat; whereunto I am ordained a preacher with power for to pleat, and by the power of God you ſhall ſee clear: Gods Judgement day that doth draw neare, for by the Divine power and glorie of Gods grace, my royall King ſhal have free leave to ſit in Judgement in Knowle place, and have power from God for to call a new Parliament, and thereby give Gods people good content, and force the Divell for to lament; for by Gods power, he ſhall be ſure for to receive his pay; for to be plagued in Hell for ever, for Gods power he ſhall obey, and ſo ſhall ye high Court in <hi>Weſtminſtar,</hi> which are grown ſo great in pow<g ref="char:EOLhyphen"/>er, for if you will not be reconciled to God and the Truth, God will bring you lower; for Gods word doth
+<pb n="5" facs="tcp:172927:4"/>tell you in the 5. chap. to the <hi>Ephe.</hi> verſ. 13. <hi>All things that are reproved they are made manifeſt by the light.</hi> And now ye Committees and Exciſers, I pray under<g ref="char:EOLhyphen"/>ſtand me well, and conſider what I ſay, for your taxing and your plunder, that is as hateful in Gods fight as robberie on the high way; for I am ſure you have no authoritie from my Royall King for to be ſo bole, for to have the command of our money and goods, and yet you ſay I muſt not you controle; but plaine truth if the world condemne thee for a liar, I am ſure I am no Weaver. And now ye Committees, I pray judge you, who doth deſerve the halter, the thiefe or the receiver; but God my Father he is full of mercie, and that muſt be your hope. And ye tormenting ſpirits I pray forſake your helliſh power, that you may all ſcape the rop<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <l>And now all good people in City and Countrey round,</l>
+            <l>I pray marke and obſerve the Trumpets ſound.</l>
+            <p>For I muſt tell you plainly, and boldly, I have received a com<g ref="char:EOLhyphen"/>miſsion from the Divine power, and Spirit of Almighty God, for to require and intreat you all, for the true love that is in Chriſt Jeſus, and as you will anſwer at the dreadfull day of judgement, for to pay no more Taxe money to the high Court of Parliament, for to maintain cruell and bloody Warre againſt my Royall King, and his true Subjects; for if ye doe, I muſt tell you plainly, you will be found for to be enemies againſt Jeſus Chriſt, who is the true God of love and peace, and falſe-hearted unto my Royall King.</p>
+            <p>For as the Bees they are all maintained with the ho<g ref="char:EOLhyphen"/>ney; even ſo bloudy Warre you doe maintaine by feeding the <hi>Parliament</hi> with money; And now ye man of Warre, Sir <hi>Thomas Fairfax,</hi> you are found to bee more crafty then the Fox: For you joyne in power with the Great and High Court, I plainely ſee, and ſo
+<pb n="6" facs="tcp:172927:5"/>you have the command of our money, for to maine<g ref="char:EOLhyphen"/>taine your great Army. But by the Divine power and glory of Gods Word, you ſhall be forced for to l<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y downe your bloody Sword; For God my Fa<g ref="char:EOLhyphen"/>ther, and Jeſus Chriſt the Morning Sta<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, they have made me a man of Warre, for to fight the Spirituall battell of the Lord; and they have given me a pow<g ref="char:EOLhyphen"/>erfull and fiery Sword, for to cut and burne down that helliſh power, which doth the Saints of God devour.</p>
+            <p>And yee tormenting ſpirits, you ſhall bee made to know God my Father as hee doth require, and you ſhall be forced to confeſſe, God hath made me a Mi<g ref="char:EOLhyphen"/>niſter and a flame of fire; For Gods Word doth tell you plainely, in the firſt Chapter to the <hi>Hebrewes,</hi> and the 7. <hi>verſ.</hi> God makes his Miniſters a flame of fier. And as a temporall fire will burn &amp; conſume ſtraw or hay, even ſo Gods Word ſhall ſhine ſo clear; Marke what I ſay: For to burn and conſume falſe power quite away.</p>
+            <p>Now here is a Tuchſtone for you. Man of Warre, Colonell <hi>Blunt;</hi> for by your blind juſtice you think to conquer prophet <hi>Hunt:</hi> For you have bound mee to app are at <hi>Maidſtone</hi> next Quarter Seſſion; but by the power of God, I ſhall command you for to ſub<g ref="char:EOLhyphen"/>ſeribe to my Petition. For I pray learne of mee to be true to God, and to the Royall Crown for if you will not, the ſword of true Juſtice ſhall cut you down. It is written in the 6 Chapter of the <hi>Revelation,</hi> and the 2 <hi>verſ. Behold, a white Horſe, and he that ſate on him had a Boy, and a Crowne was given unto him, and forthwith he went co quering, and to conquer:</hi> and now my kind and loving Friend, which by name is called M. <hi>Selke,</hi> I acknowledge, once I was but a babe in Chriſt and was fed with heavenly mike, but now, God my Father,</p>
+            <pb n="7" facs="tcp:172927:5"/>
+            <l> He hath made me a ſpirituall Archer, ſtrong and ſtour,</l>
+            <l>For to confound the Devill and all his rout:</l>
+            <l>For in my Quiver I have Arrowes ſtore,</l>
+            <l>I am fure a thouſand, and many more;</l>
+            <l>And ſome are ſhort, and ſome are long,</l>
+            <l>But my bow is ſtedfeſt and exceeding ſtrong:</l>
+            <l>For my bow it hath a double ſtring,</l>
+            <l>Which I would gladly ſhew my Royall King.</l>
+            <l>For God hath made me able with my Verſes and Proſe,</l>
+            <l>For to conquer all our Foes,</l>
+            <l>And I am perſwaded if my Royall King did but know my art,</l>
+            <l>He would give me leave to play my part.</l>
+            <l>For the divine power and glory of Gods Word,</l>
+            <l>That is my Bow, and Arrowes, and my Sword,</l>
+            <l>For to wound thoſe darke angels on the head,</l>
+            <l>Which all this miſerie have bread:</l>
+            <l>But if the darke angels you doe not know,</l>
+            <l>In plaine and briefe I will you ſhow,</l>
+            <l>For they are the Clergie I plainly ſee and underſtand,</l>
+            <l>Which have deceived the whole Land;</l>
+            <l>And that is the maine cauſe, as you all ſhall ſee,</l>
+            <l>Why our King and Parliament cannot agree.</l>
+            <l>But by the divine power of Jeſus Chriſt, the glorious and precious ſtone,</l>
+            <l>The children of Almighty God, they ſhall be gathered all in one.</l>
+            <p>For Jeſus Chriſt he doth tell you in the 12 Chap. of <hi>Iohn,</hi> and the 20. verſ, <hi>And</hi> I, <hi>if</hi> I <hi>be lifted up from the earth,</hi> I <hi>will draw all men unto me.</hi> But how, and by what meanes will Chriſt draw all men unto himſelfe, I ſay, by the powerfull preaching of his Word; for the true ſpirit of God hee can draw but one way, and that is to Chriſt, and to the New Teſtament, which is our glori<g ref="char:EOLhyphen"/>ous
+<pb n="8" facs="tcp:172927:6"/>Goſpel of love and peace, that by the divine power thereof, bloody Warre may end and ceaſe: for Gods word doth tell you plainly in the 1. Chapter to the <hi>Coloſ.</hi> and the 19. verſ. it pleaſed God our Father, that in Chriſt ſhould all fulneſſ dwell, and having made peace through the blood of his Croſs, for to reconcile all things unto himſelfe.</p>
+            <p>And now ye Lords, Knights, and Burgeſſes in Parliament, and all ye Committees, Captains, and Commanders, and all yee Clergy Magiſtrates and Church-wardens, by Gods help I have made it plainly appeare, Jeſus Chriſt was crucified on the Croſs, for to draw his people into the true band of love and peace; and now the God of love and peace who hath brought again from the dead our Lord Jeſus that great Shepherd of the ſheepe, make you all perfect to do his will, working in you that which is well pleaſing in his ſight, through the Divine power of Jeſus Chriſt our Lord, <hi>Heb.</hi> 13.20. And now I ſay a<g ref="char:EOLhyphen"/>gain, Jeſus Chriſt he is the great Shepherd of the Sheepe, and there is but one true and perfect God, &amp; there muſt and ſhall be but one Religion, one Shepherd, and one Sheep ſold, &amp; Father, Son, &amp; Holy Ghoſt, they have made me a powerfull in<g ref="char:EOLhyphen"/>ſtrument for to call and gather the Sheepe into the true fould, that Gods love, power and glory you may behold; and now my Royall <hi>King</hi> I do humbly beſeech your Majeſty for to come to Knowle, and I wil ſhow you by what meanes all our enemies we may controle; for God hath made me able to ſhow you a plain and ſpeedy way for the eſtabliſhing of true peace and ſound Religion, and for the ſetting for<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of Church Government in ſuch a plain and powerfull way, that the high Court of Parliament, and all their Synod of Divines, Claſſes, Committees, and Commanders, and thoſe that are called by the name of Anabaptiſts, ſhall not be able to convince it; for now by Gods help, I will boldly ſay, if I cannot plainly prove and maintaine what I ſpake, why then let me be hanged or burned at a ſtake. But ye Lords, Knights, and Burgeſſes, in Parliament; for the Commandements you do ſay there are 10. and now I ſay true love and ſound peace, that is the greateſt Commandement, and for that cauſe I hope you will all joyne with me and ſay. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
